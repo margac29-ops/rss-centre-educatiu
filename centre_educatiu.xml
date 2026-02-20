@@ -4,6 +4,7 @@
     <title>Centre Educatiu Exemple</title>
     <link>http://www.centreeducatiuexemple.cat</link>
     <description>Notícies i avisos del centre educatiu Exemple</description>
+    <language>ca-ES</language>
 
     <!-- Notícia 1 -->
     <item>
@@ -19,6 +20,15 @@
       <link>https://diarieducacio.cat/extra/2025/12/15/97-centres-educatius-presenten-projectes-per-fomentar-lequitat-educativa-impulsats-per-la-fundacio-la-caixa/</link>
       <description>Notícia sobre projectes educatius impulsats per la Fundació “la Caixa” per promoure l’equitat educativa.</description>
       <pubDate>Mon, 15 Dec 2025 00:00:00 +0100</pubDate>
+    </item>
+
+    <!-- Notícia 3 (nou item amb camp opcional) -->
+    <item>
+      <title>Nova biblioteca digital per a alumnes i professors</title>
+      <link>https://www.exempleeducatiu.cat/noticies/biblioteca-digital</link>
+      <description>El centre ha inaugurat una nova biblioteca digital amb recursos online i llibres electrònics per a tots els alumnes.</description>
+      <pubDate>Fri, 20 Feb 2026 10:00:00 +0100</pubDate>
+      <category>Recursos</category> <!-- camp opcional afegit -->
     </item>
 
   </channel>

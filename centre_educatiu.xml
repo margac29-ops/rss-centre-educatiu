@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Centre Educatiu Exemple</title>
+    <link>http://www.centreeducatiuexemple.cat</link>
+    <description>Notícies i avisos del centre educatiu Exemple</description>
+
+    <!-- Notícia 1 -->
+    <item>
+      <title>El curs escolar començarà amb més suport educatiu</title>
+      <link>https://www.rtve.es/television/20250903/curs-escolar-comencara-amb-2200-alumnes-pero-amb-mes-necessiten-suport/16715506.shtml</link>
+      <description>Notícia sobre l’inici del curs escolar 2025‑2026 amb més alumnes amb necessitats educatives específiques.</description>
+      <pubDate>Wed, 03 Sep 2025 12:57:00 +0100</pubDate>
+    </item>
+
+    <!-- Notícia 2 -->
+    <item>
+      <title>97 centres educatius presenten projectes per fomentar l’equitat</title>
+      <link>https://diarieducacio.cat/extra/2025/12/15/97-centres-educatius-presenten-projectes-per-fomentar-lequitat-educativa-impulsats-per-la-fundacio-la-caixa/</link>
+      <description>Notícia sobre projectes educatius impulsats per la Fundació “la Caixa” per promoure l’equitat educativa.</description>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0100</pubDate>
+    </item>
+
+  </channel>
+</rss>
